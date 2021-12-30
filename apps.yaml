@@ -10,7 +10,7 @@ metadata:
 spec:
   project: production
   source:
-    repoURL: 
+    repoURL: https://github.com/johnnyflinn/crossplane-kubevela-argocd-demo
     targetRevision: HEAD
     path: production
   destination:

@@ -9,7 +9,7 @@ spec:
   project: production
   source:
     path: team-a-infra
-    repoURL: 
+    repoURL: https://github.com/johnnyflinn/crossplane-kubevela-argocd-demo
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc

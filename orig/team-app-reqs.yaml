@@ -9,7 +9,7 @@ spec:
   project: production
   source:
     path: team-app-reqs
-    repoURL: 
+    repoURL: https://github.com/johnnyflinn/crossplane-kubevela-argocd-demo
     targetRevision: HEAD
   destination:
     server: team-a
